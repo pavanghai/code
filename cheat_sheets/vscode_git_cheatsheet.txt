@@ -1,0 +1,3 @@
+# Change branch name 
+  ctrl+shift+p -> Git: Rename Branch
+  # you get an option to rename the branch
